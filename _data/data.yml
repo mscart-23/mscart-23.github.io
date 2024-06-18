@@ -18,29 +18,29 @@ sidebar:
     linkedin: meghancarter23
     github: mscart-23
 
-    languages:
+    interests:
       title: Projects
       info:
-        - idiom: English
-          level: Native
+        - item: MIT Phone App
+          link: 
 
-        - idiom: French
-          level: Professional
+        - item: Wordle Program
+          link:
 
-        - idiom: Spanish
-          level: Professional
+        - item: Python List & File Program
+          link:
 
-    interests:
+    languages:
       title: Interests
       info:
-        - item: Climbing
-          link:
+        - idiom: Soccer
+          level: Native
 
-        - item: Snowboarding
-          link:
+        - idiom: Puzzles
+          level: Professional
 
-        - item: Cooking
-          link:
+        - idiom: Piano
+          level: Professional
 
 career-profile:
     title: Career Profile
