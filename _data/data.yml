@@ -208,22 +208,22 @@ skills:
     title: Skills &amp; Proficiency
 
     toolset:
-      - name: Python & Django
-        level: 98%
-
-      - name: Javascript & jQuery
-        level: 98%
-
-      - name: Angular
-        level: 98%
-
-      - name: HTML5 & CSS
+      - name: Microsoft 365 Apps
         level: 95%
 
-      - name: Ruby on Rails
+      - name: C++
         level: 85%
 
-      - name: Sketch & Photoshop
+      - name: Python
+        level: 80%
+
+      - name: Java
+        level: 65%
+
+      - name: Information Technology
+        level: 60%
+
+      - name: Graphic Design
         level: 60%
 
 footer: >
