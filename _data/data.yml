@@ -34,6 +34,7 @@ sidebar:
       title: Interests
       info:
         - idiom: Soccer
+          level:
 
         - idiom: Puzzles
           level: 
@@ -91,27 +92,23 @@ experiences:
 projects:
     title: Projects
     intro: >
-      Projects include coursework 
+      Coursework and professional work
     assignments:
-      - title: Velocity
+      - title: MIT Phone App
         link: "#hook"
         tagline: "A responsive website template designed to help startups promote, market and sell their products."
 
-      - title: DevStudio
+      - title: Worlde Program
         link: "#"
         tagline: "A responsive website template designed to help web developers/designers market their services."
 
-      - title: Tempo
+      - title: Windows 11 Upgrade
         link: "#"
         tagline: "A responsive website template designed to help startups promote their products or services and to attract users &amp; investors"
 
-      - title: Atom
+      - title: Python List and File Program
         link: "#"
         tagline: "A comprehensive website template solution for startups/developers to market their mobile apps."
-
-      - title: Delta
-        link: "#"
-        tagline: "A responsive Bootstrap one page theme designed to help app developers promote their mobile apps"
 skills:
     title: Skills &amp; Proficiency
 
