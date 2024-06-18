@@ -95,20 +95,20 @@ projects:
       Coursework and professional work
     assignments:
       - title: MIT Phone App
-        link: "https://1drv.ms/i/c/b80cc88fe95c80a8/EaiAXOmPyAwggLjCAgAAAAABXOoQezd4baIlLP_m94K_jQ?e=LWBS06"
-        tagline: "A phone app developed in ENG 101 that it an online tracker of your emotions daily."
-
-      - title: Worlde Program
         link: "#"
-        tagline: "A responsive website template designed to help web developers/designers market their services."
+        tagline: "A phone app developed through MIT app devleopment in ENG 101 that is an online tracker of your emotions daily."
+
+      - title: Wordle Program
+        link: "#"
+        tagline: "A program designed with an objective to deduce the correct word through logical deduction and process of elimination within the limited number of guesses."
 
       - title: Windows 11 Upgrade
         link: "#"
-        tagline: "A responsive website template designed to help startups promote their products or services and to attract users &amp; investors"
+        tagline: "A work project that includes auditing Sentinental One active devices and upgrading any outdated systems with new hardware."
 
       - title: Python List and File Program
         link: "#"
-        tagline: "A comprehensive website template solution for startups/developers to market their mobile apps."
+        tagline: "In this project, I want to do some preliminary data mining to the prices of some company's stock. So that we can speak in specifics. My program will calculate the monthly average prices of Google stock from 2010 to 2020, and tell the 6 best and 6 worst months for Google. I provide the data reading function; you write the next two and a main that calls the functions"
 skills:
     title: Skills &amp; Proficiency
 
