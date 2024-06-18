@@ -55,24 +55,18 @@ education:
         university: Michigan State University
         time: 2023 - Present
         details: |
-          Describe your study here lorem ipsum dolor sit amet, consectetuer
-          adipiscing elit. Aenean commodo ligula eget dolor. Aenean massa. Cum
-          sociis natoque penatibus et magnis dis parturient montes, nascetur
-          ridiculus mus. Donec quam felis, ultricies nec, pellentesque eu,
-          pretium quis, sem.
-            - Bullet point
-            - Bullet point
+          - Discrete Mathematics
+          - Calculus 2
+          - Engineering 101
+          - C++
       - degree: Bachelor in Computer Science
         university: Grand Rapids Community College
         time: 2022 - 2023
         details: |
-          Describe your study here lorem ipsum dolor sit amet, consectetuer
-          adipiscing elit. Aenean commodo ligula eget dolor. Aenean massa. Cum
-          sociis natoque penatibus et magnis dis parturient montes, nascetur
-          ridiculus mus. Donec quam felis, ultricies nec, pellentesque eu,
-          pretium quis, sem.
-            - Bullet point
-            - Bullet point
+          - Introduction to Computer Science
+          - Calculus 1
+          - Introduction to Programming
+          - Java/Python
 certifications:
       title: Certifications
       list:
