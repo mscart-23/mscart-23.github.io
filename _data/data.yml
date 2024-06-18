@@ -22,7 +22,7 @@ sidebar:
       title: Projects
       info:
         - item: MIT Phone App
-          link: [subpage](subpage.md)
+          link: 
 
         - item: Wordle Program
           link:
